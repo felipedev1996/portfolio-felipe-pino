@@ -68,7 +68,7 @@ html{
 .inicio .contenido-banner{
     padding: 20px;
     background:none ;
-    /* background-color: #1e2326; */
+    /* background-color: #01121b; */
     max-width: 350px;
     margin: auto;
     text-align: center;
@@ -76,7 +76,7 @@ html{
 }
 .inicio .contenido-banner img{
     margin-top: 40px;
-    border: 5px solid #1CB698;
+    border: 3px solid #1CB698;
     display: block;
     width: 80%;
     height: 270px;
